@@ -58,7 +58,6 @@ public class MainActivity extends AppCompatActivity {
 
                     if(cont==6){
                         venceu();
-                        resetaBackgroundColor();
                     }
 
                 }
