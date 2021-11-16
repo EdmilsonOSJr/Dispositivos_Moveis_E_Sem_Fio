@@ -8,4 +8,4 @@ Esse exercício consiste em fazer um jogo da memória onde:
 - Se em algum momento da sequência o usuário apertar o botão errado, todos os botões reaparecem, e o fundo volta a ficar branco;
 - A barra de progresso deve avançar à medida que os botões são pressionados na ordem correta;
 
-Vídeo de demonstração: https://drive.google.com/file/d/1TiBlm8YjKAGQSiMLbilE_wcpETilHGLR/view?usp=sharing
+Vídeo de demonstração: https://drive.google.com/file/d/1ve4Gc3bssCpKL_X0WK_hG0hdXzl5_N9a/view?usp=sharing
