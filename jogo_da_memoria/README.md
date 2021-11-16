@@ -7,3 +7,5 @@ Esse exercício consiste em fazer um jogo da memória onde:
 - Se os botões forem todos pressionado na ordem correta, todos desaparecerão, e será exibida um mensagem avisando que o usuário venceu o jogo;
 - Se em algum momento da sequência o usuário apertar o botão errado, todos os botões reaparecem, e o fundo volta a ficar branco;
 - A barra de progresso deve avançar à medida que os botões são pressionados na ordem correta;
+
+Vídeo de demonstração: https://drive.google.com/file/d/17yzT8Cgo_41qU_pG9otyq8WKqvi1Ftq9/view?usp=sharing
