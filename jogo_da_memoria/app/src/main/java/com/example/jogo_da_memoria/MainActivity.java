@@ -54,7 +54,7 @@ public class MainActivity extends AppCompatActivity {
                         progressBar.incrementProgressBy(16);
                         linearLayout.setBackgroundColor(getResources().getColor(cores.get(numeros.get(cont)-1)));
                         cont++;
-                    }else reinicia(view);
+                    }else reinicia();
 
                     if(cont==6){
                         venceu();
@@ -71,9 +71,13 @@ public class MainActivity extends AppCompatActivity {
     }
 
 
-    public void reinicia(View view){
-        resetaBotoes();
+    public void novaPartida(View view){
+        reinicia();
         geraSequenciaAleatoria();
+    }
+
+    public void reinicia(){
+        resetaBotoes();
         resetaProgressBar();
         resetaBackgroundColor();
         cont = 0;
